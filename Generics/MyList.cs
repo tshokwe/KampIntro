@@ -11,6 +11,8 @@ namespace Generics
         public MyList()
         {
             items = new T[0];
+
+
         }
         public void Add (T item)
         {
